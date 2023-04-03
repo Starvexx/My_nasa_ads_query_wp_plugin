@@ -2,8 +2,8 @@
 /*
  * Plugin Name:  My NASA/ADS query plugin
  * Plugin URI:   https://www.nemesis.univie.ac.at
- * Description:  Since none of the plugins work, this is my own version that should at some point work.
- * Version:      0.1 beta
+ * Description:  Since none of the plugins work, I decided to create my own ADS query plugin. At the moment only limited functionality is implemented. In order for this plugin to work, you need a public ADS library which contains all the publications you want to display on your webpage.
+ * Version:      0.2 beta
  * Author:       David Hernandez 
  * Author URI:   https://homepage.univie.ac.at/david.hernandez/
  * License:      GPL2
