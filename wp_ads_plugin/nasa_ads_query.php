@@ -11,9 +11,9 @@
  * Text Domain:  my-nasaads-query-plugin
  */
 
-add_shortcode( 'python', 'embed_python' );
+add_shortcode( 'nasa_ads_library', 'embed_nasa_ads_library' );
 
-function embed_python( $attributes )
+function embed_nasa_ads_library( $attributes )
 {
     $data = shortcode_atts(
         [
